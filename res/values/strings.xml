@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoIIMoviles</string>
+
+    <string name="activity">Activity</string>
+    <string name="event">Event</string>
+    <string name="exception">Exception</string>
+    <string name="crash">Crash</string>
+    <string name="fragment">Fragment</string>
+
+    <string name="fragment_footer">FragmentFooter</string>
+</resources>
